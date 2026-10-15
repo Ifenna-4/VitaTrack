@@ -1,0 +1,10 @@
+{
+  "name": "VitaTrack - Chronic Health Monitoring Companion",
+  "description": "AI-powered chronic illness monitoring companion for hypertension, hypotension, and diabetes. Visually capture device readings, track longitudinal trends, and receive personalized insights.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
